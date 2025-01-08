@@ -53,14 +53,11 @@ Customizing Visuals: Enhances dashboard aesthetics for better user engagement.</
 <h3>Conclusion:</h3>
 <br>
 This project provides a comprehensive approach to data analysis and visualization, starting with SQL-based querying and progressing to advanced Power BI features. 
-<br>
-By focusing on data preparation, transformation, and modeling, participants gain hands-on experience with tools and techniques essential for data analysts.
-<br>
-The resulting dashboards enable actionable insights, laying a solid foundation for future projects.
+By focusing on data preparation, transformation, and modeling, participants gain hands-on experience with tools and techniques essential for data analysts.The resulting dashboards enable actionable insights, laying a solid foundation for future projects.
 
-Appendix
-Tools Used: MySQL, MySQL Workbench, Power BI
-Data Sources: Sales insights database from Kaggle
-Key Visualizations: Revenue by customer, sales trends, interactive filters
+<h3>Appendix</h3><br>
+<h5>Tools Used: MySQL, MySQL Workbench, Power BI</h5><br>
+<h5>Data Sources: Sales insights database from Kaggle</h5><br>
+<h5>Key Visualizations: Revenue by customer, sales trends, interactive filters</h5>
 
 
