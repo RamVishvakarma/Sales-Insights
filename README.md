@@ -7,6 +7,8 @@ Project Report: Interactive Sales Dashboard for Blinkit
 Introduction
 This project demonstrates the creation of an interactive dashboard using Power BI to analyze sales data for Blinkit, an online grocery shopping app developed by Zomato. The dashboard highlights dynamic features that facilitate real-time data interaction and visualization. It integrates various Key Performance Indicators (KPIs) such as total sales, average sales, the number of items sold, and average ratings for different product categories. Additionally, the project incorporates filters to visualize sales data based on parameters such as fat content, outlet size, and item type. The emphasis on data preparation ensures accurate and reliable insights.
 
+![image](https://github.com/RamVishvakarma/Sales-Insights/blob/16bab7726fb6da29a31cc49ef62e4d56fc2cf148/Screenshot%202025-01-08%20153921.png)
+
 Project Highlights
 Dynamic Dashboard Creation
 The project focuses on building a dynamic and interactive dashboard using Power BI. Users can interact with data visualizations to explore trends, identify patterns, and make informed decisions.
