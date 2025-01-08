@@ -51,10 +51,10 @@ Visualizations: Crads, clustered bar chart, Line chart, Slicers.
 Customizing Visuals: Enhances dashboard aesthetics for better user engagement.</h4>
 <br>
 <h3>Conclusion:</h3>
-<br>
+
 This project provides a comprehensive approach to data analysis and visualization, starting with SQL-based querying and progressing to advanced Power BI features. 
 By focusing on data preparation, transformation, and modeling, participants gain hands-on experience with tools and techniques essential for data analysts.The resulting dashboards enable actionable insights, laying a solid foundation for future projects.
-
+<br>
 <br>
 
 <h3>Appendix</h3>
