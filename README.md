@@ -13,13 +13,13 @@ Participants learn to clean and transform data in Power BI, focusing on preparin
 <br>
 <h3>Key Highlights</h3>
 
-<h4>Data Transformation:</h4> <h5>Demonstrates the ETL process, converting messy data into a usable format.</h5>
+<h5>Data Transformation:Demonstrates the ETL process, converting messy data into a usable format.
 <br>
-<h4>Data Modeling:</h4> <h5>Introduces creating data models and establishing relationships between tables using a star schema.</h5>
+Data Modeling:Introduces creating data models and establishing relationships between tables using a star schema.
 <br>
-<h4>Data Cleaning:</h4> <h5>Includes filtering out negative sales and irrelevant entries.</h5>
+Data Cleaning:Includes filtering out negative sales and irrelevant entries.
 <br>
-<h4>Currency Conversion:</h4> <h5>Converts sales amounts from USD to INR for consistency.</h5>
+Currency Conversion:Converts sales amounts from USD to INR for consistency.
 <br>
 Power Query Utility: A powerful tool within Power BI for filtering, cleaning, and reshaping data.
 <br>
@@ -27,14 +27,14 @@ Data Relationships: Establishing relationships using a star schema enhances anal
 <br>
 Data Quality: Removing erroneous entries ensures reliable analysis.
 <br>
-Currency Standardization: Avoids calculation errors and maintains consistency.</h4>
+Currency Standardization: Avoids calculation errors and maintains consistency.</h5>
 <br>
 <h3>Advanced Data Cleaning and Dashboard Creation</h3>
-<br>
+
 Building upon previous lessons, this phase emphasizes handling real-world data issues such as duplicate transactions and currency inconsistencies. The project culminates in the creation of an interactive Power BI dashboard.
 <br>
 <h3>Key Highlights</h3>
-<br>
+
 <h4>Data Cleaning: Focuses on resolving duplicates and filtering out anomalies.
 <br>
 Dashboard Construction: Now creating a detailed dashboard with visualizations.
