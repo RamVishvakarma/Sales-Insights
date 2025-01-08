@@ -57,7 +57,7 @@ By focusing on data preparation, transformation, and modeling, participants gain
 
 <br>
 
-<h3>Appendix</h3><br>
+<h3>Appendix</h3>
 <h5>Tools Used: MySQL, MySQL Workbench, Power BI</h5>
 <h5>Data Sources: Sales insights database from Kaggle</h5>
 <h5>Key Visualizations: Revenue by customer, sales trends, interactive filters</h5>
