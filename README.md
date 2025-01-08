@@ -13,7 +13,7 @@ Participants learn to clean and transform data in Power BI, focusing on preparin
 <br>
 <h3>Key Highlights</h3>
 
-<h5>Data Transformation:Demonstrates the ETL process, converting messy data into a usable format.
+Data Transformation:Demonstrates the ETL process, converting messy data into a usable format.
 <br>
 Data Modeling:Introduces creating data models and establishing relationships between tables using a star schema.
 <br>
@@ -27,7 +27,7 @@ Data Relationships: Establishing relationships using a star schema enhances anal
 <br>
 Data Quality: Removing erroneous entries ensures reliable analysis.
 <br>
-Currency Standardization: Avoids calculation errors and maintains consistency.</h5>
+Currency Standardization: Avoids calculation errors and maintains consistency.
 <br>
 <h3>Advanced Data Cleaning and Dashboard Creation</h3>
 
@@ -35,7 +35,7 @@ Building upon previous lessons, this phase emphasizes handling real-world data i
 <br>
 <h3>Key Highlights</h3>
 
-<h4>Data Cleaning: Focuses on resolving duplicates and filtering out anomalies.
+Data Cleaning: Focuses on resolving duplicates and filtering out anomalies.
 <br>
 Dashboard Construction: Now creating a detailed dashboard with visualizations.
 <br>
@@ -49,7 +49,7 @@ KPI’s: Revenue, Product sales, Revenue By Customer, Revenue By Product Types, 
 <br>
 Visualizations: Crads, clustered bar chart, Line chart, Slicers.
 <br>
-Customizing Visuals: Enhances dashboard aesthetics for better user engagement.</h4>
+Customizing Visuals: Enhances dashboard aesthetics for better user engagement.
 <br>
 <h3>Conclusion:</h3>
 
