@@ -5,7 +5,7 @@ The initial phase involves analyzing a MySQL database containing sales insights,
 The project progresses to the integration of Power BI for advanced data transformation and visualization, highlighting the importance of data preparation and modeling.<br>
 <br>
 <h3>Power BI Integration and Data Transformation</h3>
-<br>
+
 The project transitions to connecting Power BI with the MySQL database to perform Extract, Transform, Load (ETL) processes.
 <br>
 Participants learn to clean and transform data in Power BI, focusing on preparing it for visualization and analysis.
