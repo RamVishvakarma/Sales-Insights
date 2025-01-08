@@ -10,15 +10,16 @@ The project transitions to connecting Power BI with the MySQL database to perfor
 <br>
 Participants learn to clean and transform data in Power BI, focusing on preparing it for visualization and analysis.
 <br>
+<br>
 <h3>Key Highlights</h3>
+
+<h4>Data Transformation:</h4> <h5>Demonstrates the ETL process, converting messy data into a usable format.</h5>
 <br>
-<h4>Data Transformation: Demonstrates the ETL process, converting messy data into a usable format.
+<h4>Data Modeling:</h4> <h5>Introduces creating data models and establishing relationships between tables using a star schema.</h5>
 <br>
-Data Modeling: Introduces creating data models and establishing relationships between tables using a star schema.
+<h4>Data Cleaning:</h4> <h5>Includes filtering out negative sales and irrelevant entries.</h5>
 <br>
-Data Cleaning: Includes filtering out negative sales and irrelevant entries.
-<br>
-Currency Conversion: Converts sales amounts from USD to INR for consistency.
+<h4>Currency Conversion:</h4> <h5>Converts sales amounts from USD to INR for consistency.</h5>
 <br>
 Power Query Utility: A powerful tool within Power BI for filtering, cleaning, and reshaping data.
 <br>
