@@ -4,7 +4,7 @@ This project focuses on using SQL and Power BI to perform data analysis, data cl
 The initial phase involves analyzing a MySQL database containing sales insights, including customer, transaction, product, and market data.<br>
 The project progresses to the integration of Power BI for advanced data transformation and visualization, highlighting the importance of data preparation and modeling.<br>
 <br>
-![Alt text](https://github.com/user-attachments/assets/be8287a1-32eb-47a7-96d0-6dadb90080a0)
+![image alt](https://github.com//RamVishvakarma//Sales-Insights//blob//e3c64b983e588b8e72fc7140b6cae94e8cef8fc0//Screenshot%202025-01-08%20153921.png)
 
 <br>
 <h3>Power BI Integration and Data Transformation</h3>
